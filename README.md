@@ -20,8 +20,7 @@ En muchas organizaciones, la preparación de informes financieros como el flujo 
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/TuUsuario/tu_proyecto_contable.git](https://github.com/TuUsuario/tu_proyecto_contable.git)
-    cd tu_proyecto_contable
+    
     ```
 2.  **Instalar Dependencias:**
     ```bash
