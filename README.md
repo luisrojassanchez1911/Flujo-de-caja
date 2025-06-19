@@ -65,6 +65,7 @@ En muchas organizaciones, la preparación de informes financieros como el flujo 
     pip install pandas matplotlib seaborn
     ```
 3.  **Colocar Datos:** Asegúrate de que tu archivo `transacciones.csv` (con el formato esperado: `Fecha,Descripcion,Monto,Tipo_Transaccion,Categoria`) se encuentre en la raíz de la carpeta del proyecto.
+
 4.  **Ejecutar el Script:**
     ```bash
     python analisis_contable.py
@@ -74,3 +75,12 @@ En muchas organizaciones, la preparación de informes financieros como el flujo 
 ## Resultados del Proyecto
 
 ### Informe de Flujo de Caja Mensual (Ejemplo de Output en Consola)
+### Flujo de Caja Neto Mensual
+![Flujo de Caja Neto Mensual](img/flujo_caja_neto.png)
+
+### Ingresos y Egresos Mensuales
+![Ingresos y Egresos Mensuales](img/ingresos_egresos.png)
+
+## Contribuciones (Opcional)
+
+Si tienes ideas para mejorar este proyecto, ¡no dudes en abrir un issue o enviar un pull request!
